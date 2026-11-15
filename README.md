@@ -1,1 +1,1 @@
-# ai-training-week1
+# Version B: Git Workflow Task
