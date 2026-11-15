@@ -1,1 +1,1 @@
-# ai-training-week1
+# Version A: AI Training Week 1
