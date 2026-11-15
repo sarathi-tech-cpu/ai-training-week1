@@ -1,1 +1,1 @@
-# Version A: AI Training Week 1
+# AI Training Week 1 - Git and GitHub Workflowgit 
